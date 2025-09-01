@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot with a !say command",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "author": "@shitpantsjohnny2, @mopsyboy, discord-coder-2024",
+  "license": "All Rights Reserved",
+  "dependencies": {
+    "discord.js": "^14.17.0",
+    "dotenv": "^16.1.0"
+  }
+}
